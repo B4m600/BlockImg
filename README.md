@@ -16,8 +16,8 @@
 
 ### 预览图(原项目)
 
-![PreviewRAW](preview\PreviewRAW.png)
+![PreviewRAW](preview/PreviewRAW.png)
 
 ### 预览图(我运行的)
 
-![PreviewMine](preview\PreviewMine.png)
+![PreviewMine](preview/PreviewMine.png)
